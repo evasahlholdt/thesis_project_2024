@@ -1,0 +1,6 @@
+category_encoders==2.6.3
+dtaidistance==2.3.12
+numpy==2.0.0
+pandas==2.2.2
+scipy==1.14.0
+torch==2.3.1
