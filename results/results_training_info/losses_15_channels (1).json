@@ -1,0 +1,14 @@
+{
+    "epoch": [
+        0
+    ],
+    "discriminator": [
+        0.16115988383235927
+    ],
+    "generator": [
+        0.11580052757621026
+    ],
+    "attribute_discriminator": [
+        0
+    ]
+}
