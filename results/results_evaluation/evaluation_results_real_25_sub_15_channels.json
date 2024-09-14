@@ -1,0 +1,13 @@
+{
+    "global_metrics": {
+        "global_ed_distance": 130.93566779640682,
+        "global_mv_dtw_distance": 3896.9616643900818,
+        "global_CCD_mean_difference": 0.0,
+        "global_CCD_MSE": 0.0,
+        "global_ACF_MSE": 0.0,
+        "global_ICD_syn": 119.31681035266124,
+        "global_ICD_real": 119.31681035266124,
+        "global_ICD_percentage_error": 0.0,
+        "hellinger_distance": 0.0
+    }
+}
