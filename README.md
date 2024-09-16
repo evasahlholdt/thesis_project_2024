@@ -1,4 +1,5 @@
-<h1 align="center"><strong>Generation of Synthetic Time Series:</strong><br>Exploring DoppelGANger for Motor Imagery EEG in the Temporal Domain</h1>
+<h1 align="center"><strong>Generation of Synthetic Time Series:</strong><br><span style="font-weight: normal;">Exploring DoppelGANger for Motor Imagery EEG in the Temporal Domain</span></h1>
+
 
 This repository contains the code used the thesis project on synthesizing raw EEG using the GAN architecture DoppelGANger. 
 
